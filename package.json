@@ -9,14 +9,14 @@
   "keywords": [
     "cli",
     "tree-structure",
-    "node-package",
+    "node-package"
   ],
   "scripts": {
     "test": "ava",
     "lint": "standard",
     "fix": "standard --fix"
   },
-  "author": "chunqiuyiyu",
+  "author": "chunqiuyiyu <chunqiuyiyu@outlook.com> (https://www.chunqiuyiyu.com/)",
   "license": "MIT",
   "devDependencies": {
     "ava": "^0.25.0",
